@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skrót AoD</string>
+    <string name="grant_shizuku_permission">Otwórz Shizuku i nadaj uprawnienia aplikacji \"%1$s\"</string>
+    <string name="grant_write_secure_settings">"Zainstaluj Shizuku lub uruchom z komputera następujące polecenie:
+adb shell pm grant %1$s %2$s"</string>
+    <string name="toggle_name">Zawsze wł.</string>
+    <string name="unsupported_device">To urządzenie nie jest kompatybilne</string>
+</resources>
