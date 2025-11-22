@@ -1,15 +1,11 @@
-# Always on Display Toggle
+# AoD Toggle
+<img width="480" height="518" alt="Screenshot_20251123-000226" src="https://github.com/user-attachments/assets/9e9629b9-f223-4f1d-a6b8-2e54b479b009" />
+<img width="480" height="518" alt="Screenshot_20251123-000256" src="https://github.com/user-attachments/assets/77cfa6c7-4613-4397-bde9-57446a48e267" />
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80"
-     align="right">](https://f-droid.org/packages/org.alberto97.aodtoggle/)
-
-[![GitHub release](https://img.shields.io/github/release/Alberto97/AlwaysOnDisplayToggle.svg?logo=github)](https://github.com/Alberto97/AlwaysOnDisplayToggle/releases/latest)
-[![F-Droid](https://img.shields.io/f-droid/v/org.alberto97.aodtoggle.svg?logo=F-Droid)](https://f-droid.org/en/packages/org.alberto97.aodtoggle/)
+[![GitHub release](https://img.shields.io/github/release/Alberto97/AlwaysOnDisplayToggle.svg?logo=github)](https://github.com/HackZy01/AoDToggle/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/Alberto97/AlwaysOnDisplayToggle)](https://github.com/Alberto97/AlwaysOnDisplayToggle/blob/master/LICENSE)
 
-An Android quick setting that turns Always on Display on or off.
+Hassle-free AoD toggle that Google didn't implement
 
 ## Permissions
 
